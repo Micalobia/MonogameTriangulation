@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonogameTriangulation", "MonogameTriangulation\MonogameTriangulation.csproj", "{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVTesting", "OpenCVTesting\OpenCVTesting.csproj", "{9208A05F-873B-4391-8C54-964BD2DAAB7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp", "cpp\cpp.vcxproj", "{36488D50-43A1-41A2-8027-0EA2D4E1A855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangulateCamera", "TriangulateCamera\TriangulateCamera.csproj", "{B7530B56-AE27-4A85-90DE-D075AE3751FF}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Debug|x64.ActiveCfg = Debug|x64
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Debug|x64.Build.0 = Debug|x64
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Debug|x86.ActiveCfg = Debug|x86
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Debug|x86.Build.0 = Debug|x86
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Release|Any CPU.ActiveCfg = Release|x86
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Release|x64.ActiveCfg = Release|x64
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Release|x64.Build.0 = Release|x64
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Release|x86.ActiveCfg = Release|x86
+		{CFCD7859-4CF7-475A-8A43-0B5C79462EF6}.Release|x86.Build.0 = Release|x86
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|x64.Build.0 = Release|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9208A05F-873B-4391-8C54-964BD2DAAB7E}.Release|x86.Build.0 = Release|Any CPU
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Debug|x64.ActiveCfg = Debug|x64
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Debug|x64.Build.0 = Debug|x64
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Debug|x86.ActiveCfg = Debug|Win32
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Debug|x86.Build.0 = Debug|Win32
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Release|Any CPU.ActiveCfg = Release|Win32
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Release|x64.ActiveCfg = Release|x64
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Release|x64.Build.0 = Release|x64
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Release|x86.ActiveCfg = Release|Win32
+		{36488D50-43A1-41A2-8027-0EA2D4E1A855}.Release|x86.Build.0 = Release|Win32
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Debug|x64.ActiveCfg = Debug|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Debug|x86.ActiveCfg = Debug|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Debug|x86.Build.0 = Debug|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Release|Any CPU.ActiveCfg = Release|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Release|x64.ActiveCfg = Release|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Release|x86.ActiveCfg = Release|x86
+		{B7530B56-AE27-4A85-90DE-D075AE3751FF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E563E1-DAF4-4A0A-B000-CA7B87153AB9}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
